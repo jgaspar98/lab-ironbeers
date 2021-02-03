@@ -5,3 +5,42 @@ dark-blue: #0a2c42;
 grey: #bfbfbf;
 font-family: Arial, Helvetica, sans-serif;
 */
+
+.navbar{
+    background-color: #2081c3 !important;
+    color: #f7f9f9 !important;
+    margin-right:0rem;   
+}
+
+.nav-link{
+    color: #f7f9f9 !important;
+}
+
+img{
+    display: block;
+    width: 24rem;
+    margin: 5rem;
+    height: 25rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.menu-button{
+    color: #f7f9f9 !important;
+}
+
+.bottles{
+    width: 5rem;
+    height: 16rem;
+    margin: 5rem;
+    margin-left: 15rem;
+}
+
+.randomInfo{
+    width: 70rem;
+    margin-top:5rem;
+}
+
+.row{
+    margin:0;
+}
